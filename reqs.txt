@@ -1,0 +1,46 @@
+Zagroda
+Ratusz 1
+;
+Spichlerz
+Ratusz 1
+;
+Schowek
+Ratusz 1
+;
+Huta
+Ratusz 1
+;
+Cegielnia
+Ratusz 1
+;
+Tartak
+Ratusz 1
+;
+Rynek
+Ratusz 3
+Spichlerz 2
+;
+Koszary
+Ratusz 3
+;
+Mur
+Koszary 1
+;
+Kuznia
+Ratusz 5
+Koszary 1
+;
+Stajnia
+Ratusz 10
+Kuznia 5
+Koszary 5
+;
+Warsztat
+Kuznia 10
+Ratusz 10
+;
+Palac
+Ratusz 20
+Kuznia 20
+Rynek 10
+;
