@@ -101,7 +101,7 @@ Kosciol
 2
 2
 ;
-palac
+Palac
 512
 ;
 Kuznia
