@@ -285,6 +285,7 @@ Spichlerz
 198
 ;
 Zagroda
+5
 1
 1
 2
